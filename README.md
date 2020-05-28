@@ -9,7 +9,7 @@ Microsoft Visual Studio 2019
 
 Clone : https://github.com/abastiands/Form-Ekspedisi.git
 
-2.Selanjutnya buka aplikasi Microsoft Visual Studio 2019
+2. Selanjutnya buka aplikasi Microsoft Visual Studio 2019
 
 3. Selanjutnya open file FormEkspedisiku.sln
 
