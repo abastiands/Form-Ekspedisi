@@ -1,3 +1,9 @@
+# Form Ekspedisi
+Form Ekspedisi merupakan sebuah program sederhana yang digunakan untuk membuat laporan untuk tentang pengiriman jasa barang dengan menggunakan bahasa pemrograman C# dengan aplikasi Microsoft Visual Studio 2019.
+
+# Aplikasi Yang Harus Di Install
+Microsoft Visual Studio 209
+
 # Cara Menjalankan Program
 Download atau Clone file dari repository
 
@@ -8,9 +14,6 @@ Selanjutnya open file FormEkspedisiku.sln
 Selanjutnya run program FormEkspedisiku
 
 atau anda dapat melihat contoh program pada file Hasil Preview.jpg
-
-# Form Ekspedisi
-Form Ekspedisi merupakan sebuah program sederhana yang digunakan untuk membuat laporan untuk tentang pengiriman jasa barang dengan menggunakan bahasa pemrograman C# dengan aplikasi Microsoft Visual Studio 2019.
 
 # Bahasa Pemrograman
 Menggunakan bahasa pemrograman C#.
