@@ -7,7 +7,7 @@ Microsoft Visual Studio 2019
 # Cara Menjalankan Program
 1. Clone atau Download file dari Repository
 
-Clone : https://github.com/abastiands/Form-Ekspedisi.git
+   Clone : https://github.com/abastiands/Form-Ekspedisi.git
 
 2. Selanjutnya buka aplikasi Microsoft Visual Studio 2019
 
