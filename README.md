@@ -5,18 +5,17 @@ Form Ekspedisi merupakan sebuah program sederhana yang digunakan untuk membuat l
 Microsoft Visual Studio 2019
 
 # Cara Menjalankan Program
-Clone atau Download file dari Repository
+1. Clone atau Download file dari Repository
 
-Clone :
-https://github.com/abastiands/Form-Ekspedisi.git
+Clone : https://github.com/abastiands/Form-Ekspedisi.git
 
-Selanjutnya buka aplikasi Microsoft Visual Studio 2019
+2.Selanjutnya buka aplikasi Microsoft Visual Studio 2019
 
-Selanjutnya open file FormEkspedisiku.sln
+3. Selanjutnya open file FormEkspedisiku.sln
 
-Selanjutnya run program FormEkspedisiku
+4. Selanjutnya run program FormEkspedisiku
 
-atau anda dapat melihat contoh program pada file Hasil Preview.jpg
+5. Atau anda dapat melihat contoh program pada file Hasil Preview.jpg
 
 # Bahasa Pemrograman
 Menggunakan bahasa pemrograman C#.
